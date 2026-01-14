@@ -81,3 +81,8 @@ li {
   border-radius: 3px;
   font-weight: bold;
 }
+
+.country{
+    display: flex;
+    justify-content: center;
+}
